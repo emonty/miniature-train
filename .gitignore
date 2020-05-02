@@ -130,3 +130,6 @@ dmypy.json
 
 # Clone of ara-web
 ara-web/ara-web/
+
+# Let's not commit keys to git
+ara-deploy-key.json
